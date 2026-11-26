@@ -1,0 +1,8 @@
+pandas>=2.0.0
+requests>=2.31.0
+openpyxl>=3.1.0
+urllib3>=2.0.0
+selenium>=4.15.0
+# Khusus Windows untuk Enkripsi_AP2T.exe pada scripts/uat.py:
+# pywinauto>=0.6.8
+# pyperclip>=1.8.2

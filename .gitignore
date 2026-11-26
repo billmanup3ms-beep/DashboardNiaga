@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+scripts/user_token.json
+scripts/update_saldo.lock
+data/cache/*.csv
+data/gabungan_detail_tunggakan.xlsx
+.DS_Store
+*.log
